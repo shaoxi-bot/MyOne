@@ -11,7 +11,8 @@ printf("The value of c is",c)
 
 def mul(a,b):
     return (a*b)
-
+d = mul(a,b)
+printf("The value of d is",d)
 
 def sum(a,b):
     return (a+b)
